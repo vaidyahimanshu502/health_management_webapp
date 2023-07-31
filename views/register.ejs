@@ -1,0 +1,25 @@
+<div class="mt-2 reg-form-container">
+    <h1>Register Form</h1>
+  <form action="/api/v1/user/register_user" method="POST">
+    <div class="mb-2">
+      <label for="Name" class="form-label">Name</label>
+      <input type="text" class="form-control" name="name" id="Name" />
+    </div>
+
+    <div class="mb-2">
+      <label for="Age" class="form-label">Age</label>
+      <input type="text" class="form-control" name="age" id="Age" />
+    </div>
+
+    <div class="mb-2">
+      <label for="Email" class="form-label">Email</label>
+      <input type="email" class="form-control" name="email" id="Email" />
+    </div>
+
+    <div class="mb-2">
+      <label for="Password" class="form-label">Password</label>
+      <input type="password" class="form-control" name="password" id="Password" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>

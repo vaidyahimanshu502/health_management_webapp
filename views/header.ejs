@@ -1,0 +1,58 @@
+
+    <nav class="navbar navbar-expand-lg bg-body-tertiary nav-container">
+      <div class="container-fluid">
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarTogglerDemo01"
+          aria-controls="navbarTogglerDemo01"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+          <a class="navbar-brand" href="/">Health Management System</a>
+
+          <form class="d-flex search-bar" role="search">
+            <input
+              class="form-control me-2"
+              type="search"
+              placeholder="Search"
+              aria-label="Search"
+            />
+            <button class="btn btn-outline-success text-center search-btn" type="submit">
+              Search
+            </button>
+          </form>
+           <% if(title === "Health | Management WebApp" ) {%>
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="btn btn-outline-success" href="/api/v1/render/register">Register</a>
+            </li>
+            <li class="nav-item">
+              <a class="btn btn-outline-success" href="/api/v1/render/signin">Sign-In</a>
+            </li>
+
+            <% } else if(title ===  "After Sign-In | Page" ) { %>
+                
+            <li class="nav-item profile-btn">
+              <a class="btn btn-outline-success" href="/api/v1/render/profile">Go to Profile</a>
+            </li>
+            <li class="nav-item profile-btn">
+                <a class="btn btn-outline-success" href="/">Go to Home</a>
+            </li>
+            <% } else { %>
+
+                <li class="nav-item profile-btn">
+                    <a class="btn btn-outline-success" href="/">Go to Home</a>
+                  </li>
+                
+            <% } %> 
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+.footer {
+  color: darkgray;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+  /* background-image: linear-gradient(
+    to top right,
+    rgba(2, 8, 16, 0.5),
+    rgba(58, 59, 61, 0.5)
+  ); */
+  background-color: black;
+  box-shadow: 3px 3px 5px 3px black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

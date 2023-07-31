@@ -1,0 +1,11 @@
+.profile-container {
+  display: flex;
+  /* margin: 0 auto; */
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+div ul li {
+    list-style-type: none;
+}
