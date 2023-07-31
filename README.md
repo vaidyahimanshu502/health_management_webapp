@@ -25,6 +25,11 @@
  ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/7f80f1d0-8413-484b-81d8-600f96c73ed4)
  5] Profile Page
  ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/8186a22f-3349-46e9-9212-4676a6bccbb8)
+
+# APIs Calling By Postman's Images
+ 1] For Register HTTP-RWQUEST->POST URL: http://localhost:9595/api/v1/user/register
+ ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/aea38590-0e0a-4ec0-8b3e-40ae1413c0f2)
+ 2] For Log-In HTTP REQUEST->POST URL: http://localhost:9595/api/v1/user/login
  ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/67d6bb79-b7d6-45de-b9b9-2738ce130323)
 
 
