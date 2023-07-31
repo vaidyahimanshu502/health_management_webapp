@@ -30,7 +30,8 @@
  3] Sign-In Page
  ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/b36b56e3-ccbc-41d6-a7ab-4304bbd6f2e3)
  4] After sign-in
- ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/7f80f1d0-8413-484b-81d8-600f96c73ed4)
+ ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/07191191-4e05-4652-8608-a78ef9da3187)
+
  5] Profile Page
  ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/8186a22f-3349-46e9-9212-4676a6bccbb8)
 
