@@ -31,6 +31,15 @@
  ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/aea38590-0e0a-4ec0-8b3e-40ae1413c0f2)
  2] For Log-In HTTP REQUEST->POST URL: http://localhost:9595/api/v1/user/login
  ![Screenshot 2023-07-31 103425](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/6ada05d2-4a8f-4deb-8bf0-1df857985912)
+ 3] For Adding Activities HTTP REQUEST-PUT URL: http://localhost:9595/api/v1/user/activity
+ ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/6e894872-a962-4f7b-8c9e-204d7a0445b8)
+ 4] For Adding Nutritions HTTP REQUEST-PUT URL: http://localhost:9595/api/v1/user/nutrition
+ ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/31f3eb30-a0c4-4d63-8785-edd76c0619e6)
+ 5] For Adding Vitals HTTP REQUEST-PUT URL: http://localhost:9595/api/v1/user/vitals
+ ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/1d71551d-3b1a-45b5-a255-98b50546553a)
+
+
+
 
 
 
