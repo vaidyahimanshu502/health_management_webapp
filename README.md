@@ -30,7 +30,8 @@
  1] For Register HTTP-RWQUEST->POST URL: http://localhost:9595/api/v1/user/register
  ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/aea38590-0e0a-4ec0-8b3e-40ae1413c0f2)
  2] For Log-In HTTP REQUEST->POST URL: http://localhost:9595/api/v1/user/login
- ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/67d6bb79-b7d6-45de-b9b9-2738ce130323)
+ ![Screenshot 2023-07-31 103425](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/6ada05d2-4a8f-4deb-8bf0-1df857985912)
+
 
 
 
