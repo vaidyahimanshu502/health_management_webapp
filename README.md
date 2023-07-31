@@ -12,6 +12,14 @@
   c] MongoDb
   d] EJS
   e] Backend npm--- colors, cors, dotenv, ejs, express, express-ejs-layout, mongoose, morgan
+# Features-----
+   a] First a user visits then he/she will redurect to the home page.
+   b] In home page at the top he will see a navbar, in which first he/she see brand name, search bar with search button, Resister and, sign-in buttons apart from this
+      He/she can also see a footer with some texts and in body some texts.
+  c] If a user click on register button he/she will redirect to register form page here a user can fill details and register in app and after that user will redirect 
+     to sign-in page where user can will sign-n by filling email and password.
+  d] After sign-in user will redirect to after log in page and can see same navbar with only my-reminder button and go to home button only and in body some texts.
+  e] When a user click on my-reminders butoon user will redirct to profile page where user will see important reminders to be healty at the age of more than 65 years.
 # Render-URL
   URL--
 # Front-Ebd Views
